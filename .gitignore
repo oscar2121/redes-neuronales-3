@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+crear_notebook_dl.py
+crear_notebooks_modulares.py
+generar_pdf_dl.py
+generar_word_dl.py
